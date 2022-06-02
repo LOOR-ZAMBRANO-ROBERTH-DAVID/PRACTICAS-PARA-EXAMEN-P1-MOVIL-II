@@ -1,0 +1,4 @@
+#Thu Jun 02 04:22:26 COT 2022
+base.0=C\:\\Users\\Roberth\\Documents\\PRACTICA-EXAMEN\\PRACTICAS-FUERA-SEMANAS\\dsbfjbsdfs\\flutter-ejercicio-5-listview-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
